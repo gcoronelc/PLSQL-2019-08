@@ -1,0 +1,9 @@
+CLASE 01
+
+1.- Repositorio en GitHub 
+2.- Instalación de ORACLE
+3.- Introducción a ORACLE
+4.- Introducción a SQL*Plus
+5.- Introducción a SQL Developer
+6.- Estructuras de almacenamiento
+7.- Esquemas ejemplo

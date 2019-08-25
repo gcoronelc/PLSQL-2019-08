@@ -6,4 +6,7 @@ CLASE 01
 4.- Introducción a SQL*Plus
 5.- Introducción a SQL Developer
 6.- Estructuras de almacenamiento
-7.- Esquemas ejemplo
+7.- Mod02 - Esquemas ejemplo
+8.- Mod03 - Fundamentos del Lenguaje
+
+

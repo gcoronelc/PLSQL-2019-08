@@ -3,6 +3,7 @@ CREATE OR REPLACE PROCEDURE SCOTT.SP_PARAM_SALIDA
 ( P_ERROR IN NUMBER, P_VALOR OUT NUMBER)
 IS
 BEGIN
+  update scott.emp set sal = 7777;
   P_VALOR := 100;
   IF P_ERROR = 1 THEN
     RAISE NO_DATA_FOUND;
@@ -24,6 +25,8 @@ END;
 /
 
 -- CON ERROR
+
+select * from scott.emp;
 
 DECLARE
   V_VALOR NUMBER := 1000;

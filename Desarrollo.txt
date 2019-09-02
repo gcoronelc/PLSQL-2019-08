@@ -13,9 +13,16 @@ CLASE 02
 
 1.- Mod09 - Funciones y Procedimientos
 2.- Mod04 - Estructuras de Control
-3.- 
+3.- Mod06 - Ecepciones
 4.- 
 5.- 
 6.- 
 7.- 
 8.- 
+
+
+CLAE 03
+
+1.- Tablas temporales y sequencias
+2.- 
+3.- 

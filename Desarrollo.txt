@@ -23,7 +23,8 @@ CLASE 03
 2.- Mod08
 3.- Paquetes
 4.- Transacciones
-5.- Cursores
+5.- Transacciones con multiples filas
+6.- Cursores
 
 
 

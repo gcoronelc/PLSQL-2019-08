@@ -68,6 +68,7 @@ END;
 /
 
 
+set serveroutput on
 
 DECLARE
 
